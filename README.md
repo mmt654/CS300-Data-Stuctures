@@ -1,4 +1,4 @@
-# CS300-Data-Stuctures
+# CS300-Data-Structures
 
 What was the problem you were solving in the projects for this course?
 We were solving a problem where a school system wanted a program that would sort through courses and required courses for a student to be able to schedule the next set of classes if the requirments are met.
